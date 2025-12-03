@@ -70,4 +70,3 @@ F1-Score가 0.27로 매우 낮게 측정되었는데, 이는 **스플리터(FS)*
 
 인코더명: pitch_type_encoder.pkl
 
-Google Drive/HuggingFace 링크: [여기에 Google Drive 또는 HuggingFace 링크를 입력하세요.]
